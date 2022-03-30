@@ -2,4 +2,4 @@
 Just a simple infinity loading style.
 
 # Preview
-![](https://github.com/css-infinity-loading/loading.gif)
+![](https://github.com/suryanarayanms/css-infinity-loading/blob/main/loading.gif)
